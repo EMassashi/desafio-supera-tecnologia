@@ -1,0 +1,16 @@
+.card {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  width: 100%;
+}
+
+
+.card--buttons {
+  justify-content: center;
+
+}
+
+.item-price {
+  font-size: 1.2rem;
+}
